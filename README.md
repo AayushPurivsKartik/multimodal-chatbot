@@ -22,9 +22,10 @@ A completely **local**, **real-time**, **multimodal** AI assistant that hears yo
 
 ### Quick Start
 ```bash
-git clone https://github.com/yourname/multimodal-chatbot.git
+git clone https://github.com/AayushPurivsKartik/multimodal-chatbot.git
 cd multimodal-chatbot
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
 python main.py
